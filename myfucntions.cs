@@ -19,7 +19,7 @@ namespace projecttest
 
         public SqlTransaction DbTran;
 
-        private static string strConnString = "Data Source=HAIER-PC;Initial Catalog=records;Integrated Security=SSPI;";
+        private static string strConnString = "Server=tcp:arsalazeemdatabase.database.windows.net,1433;Initial Catalog=fir_system;Persist Security Info=False;User ID=arsalazeem;Password=Arsal@123#;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
         public void createConn()
         {
