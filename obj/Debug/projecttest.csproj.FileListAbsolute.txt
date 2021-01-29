@@ -23,9 +23,10 @@ C:\Users\Arsal Azeem\documents\visual studio 2015\Projects\projecttest\projectte
 C:\Users\Arsal Azeem\documents\visual studio 2015\Projects\projecttest\projecttest\obj\Debug\projecttest.usercheckstatus.resources
 C:\Users\Arsal Azeem\documents\visual studio 2015\Projects\projecttest\projecttest\obj\Debug\projecttest.resgisteruser.resources
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\bin\Debug\projecttest.exe.config
+C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\bin\Debug\projecttest.exe.manifest
+C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\bin\Debug\projecttest.application
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\bin\Debug\projecttest.exe
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\bin\Debug\projecttest.pdb
-C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.csprojAssemblyReference.cache
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.complaintsdetail.resources
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.Form1.resources
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.mainform.resources
@@ -38,6 +39,8 @@ C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.usercheckstatus.resources
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.csproj.GenerateResource.cache
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.csproj.CoreCompileInputs.cache
+C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.exe.manifest
+C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.application
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.csproj.CopyComplete
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.exe
 C:\Users\Arsal Azeem\Desktop\Submission System\Fir-Submission-System-\obj\Debug\projecttest.pdb
